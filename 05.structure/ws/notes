@@ -8,3 +8,5 @@
 ######
 tf workspace list 
 tf workspace new prod
+
+En el curso de discord están cubiertos los comandos usados.
