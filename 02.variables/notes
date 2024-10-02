@@ -1,0 +1,10 @@
+
+> Oden de menor a mayor prioridad para la lectura de variables
+
+Manual
+Default
+Env varts TF_VAR_name
+terraform.tfvars/.json
+*.tfvars no cargado -var-file=
+*.auto.tfvars or *.auto.tfvars.json
+-var and -var-file
